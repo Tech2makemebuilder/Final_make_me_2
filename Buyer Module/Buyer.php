@@ -34,7 +34,7 @@
                         <div class="container-fluid">
                             <div style="opacity: 1;">
                                 <a href="../index.php">
-                                    <img id="logo-img" src="../Images/logo.png" alt="Clever Deals logo">
+                                    <img id="logo-img" src="../images/logo.png" alt="Clever Deals logo">
                                 </a>
                             </div>
 
