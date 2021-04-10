@@ -169,7 +169,7 @@
                                                             <div class="row">
                                                                 <div class="col-sm-12 col-md-12 col-lg-12 mt-4">
                                                                     <div class="card">
-                                                                        <img class="card-img-top" src="../Images/feature1.jpg">
+                                                                        <img class="card-img-top" src="../images/feature1.jpg">
                                                                         <div class="card-block" style="padding-bottom: 0;">
 
                                                                             <h4 class="card-title mt-3">Project Name</h4>
@@ -186,7 +186,7 @@
                                                                 </div>
                                                                 <div class="col-sm-12 col-md-12 col-lg-12 mt-4">
                                                                     <div class="card">
-                                                                        <img class="card-img-top" src="../Images/feature1.jpg">
+                                                                        <img class="card-img-top" src="../images/feature1.jpg">
                                                                         <div class="card-block" style="padding-bottom: 0;">
 
                                                                             <h4 class="card-title mt-3">Project Name</h4>
@@ -203,7 +203,7 @@
                                                                 </div>
                                                                 <div class="col-sm-12 col-md-12 col-lg-12 mt-4">
                                                                     <div class="card">
-                                                                        <img class="card-img-top" src="../Images/feature1.jpg">
+                                                                        <img class="card-img-top" src="../images/feature1.jpg">
                                                                         <div class="card-block" style="padding-bottom: 0;">
 
                                                                             <h4 class="card-title mt-3">Project Name</h4>
@@ -274,7 +274,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -300,7 +300,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -326,7 +326,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -352,7 +352,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -682,7 +682,7 @@ WHERE
             </div>
 
             <div class="foot-logo" style="width: 500px;">
-                <img src="../Images/logo.jpg" style="width:500px;" alt="">
+                <img src="../images/logo.jpg" style="width:500px;" alt="">
             </div>
             <!-- <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
