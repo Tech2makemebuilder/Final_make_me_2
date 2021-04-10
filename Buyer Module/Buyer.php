@@ -378,7 +378,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -404,7 +404,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -430,7 +430,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -456,7 +456,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
@@ -482,7 +482,7 @@
                     </div>
                     <div class="col-sm-6 col-md-4 col-lg-4 mt-4">
                         <div class="card">
-                            <img class="card-img-top" src="../Images/feature1.jpg">
+                            <img class="card-img-top" src="../images/feature1.jpg">
                             <div class="card-block" style="padding-bottom: 0;">
                                 <h4 class="card-title mt-3">Project Name</h4>
                                 <div class="meta">
