@@ -1,8 +1,8 @@
 <?php
 
-	$db_host='localhost';
-	$db_user='root';
-	$db_pass='';
+	$db_host='us-cdbr-east-03.cleardb.com';
+	$db_user='b8aa88ad6a27d3';
+	$db_pass='8e2ec6ec';
 	$db_name='mmb';
 
 	try {
